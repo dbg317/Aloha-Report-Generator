@@ -1,0 +1,242 @@
+From D:\百度云同步盘\PycharmProjects\untitled\Aloha Report Generator\20160919172645116.csv
+
+Tested Locations:
+-Macy's: 1400 Willowbrook Mall  Wayne NJ 07470  United States
+-Subway: 1400 Willowbrook Mall  Wayne NJ 07470  United States
+-Subway: 1130 Willowbrook Mall  Wayne NJ 07470  United States
+-Subway: 1200 Willowbrook Mall  Wayne NJ 07470  United States
+-Aeropostale: 1200 Willowbrook Mall  Wayne NJ 07470  United States
+-Aeropostale: 1455 Willowbrook Mall  Wayne NJ 07470  United States
+-Foot Locker: 1415 Willowbrook Mall  Wayne NJ 07470  United States
+-Foot Locker: 1455 Willowbrook Mall  Wayne NJ 07470  United States
+-Champs Sports: 1415 Willowbrook Mall  Wayne NJ 07470  United States
+-Sephora. : 1700 Willowbrook Mall  Wayne NJ 07470  United States
+-Sephora. : 1455 Willowbrook Mall  Wayne NJ 07470  United States
+-Disney: 1700 Willowbrook Mall  Wayne NJ 07470  United States
+-Att Wireless: 1220 Willowbrook Mall  Wayne NJ 07470  United States
+-express. : 1220 Willowbrook Mall  Wayne NJ 07470  United States
+-Bloomingdale's: 263 US Highway 46  Wayne NJ 07470  United States
+-Bloomingdale's: 3 Willowbrook Blvd  Wayne NJ 07470  United States
+-American Eagle Outfitters: 1220 Willowbrook Mall  Wayne NJ 07470  United States
+-T Mobile: 1220 Willowbrook Mall  Wayne NJ 07470  United States
+-six02: 1220 Willowbrook Mall  Wayne NJ 07470  United States
+-Hess: 556 Myrtle Ave  Boonton NJ 07005  United States
+-acme: 556 Myrtle Ave  Boonton NJ 07005  United States
+
+Tap not allowed: 
+-T Mobile:1220 Willowbrook Mall  Wayne NJ 07470  United States: Amex
+-T Mobile:1220 Willowbrook Mall  Wayne NJ 07470  United States: Amex
+-T Mobile:1220 Willowbrook Mall  Wayne NJ 07470  United States: MasterCard
+-T Mobile:1220 Willowbrook Mall  Wayne NJ 07470  United States: MasterCard 
+-T Mobile:1220 Willowbrook Mall  Wayne NJ 07470  United States: MasterCard Debit
+-T Mobile:1220 Willowbrook Mall  Wayne NJ 07470  United States: MasterCard Debit
+
+Card not accepted:
+-N/A
+
+Refunds:
+-N/A
+
+No Issues (All Cards):
+-Att Wireless:1220 Willowbrook Mall  Wayne NJ 07470  United States
+-Champs Sports:1415 Willowbrook Mall  Wayne NJ 07470  United States
+-Sephora. :1700 Willowbrook Mall  Wayne NJ 07470  United States
+-six02:1220 Willowbrook Mall  Wayne NJ 07470  United States
+-American Eagle Outfitters:1220 Willowbrook Mall  Wayne NJ 07470  United States
+-Bloomingdale's:263 US Highway 46  Wayne NJ 07470  United States
+-express. :1220 Willowbrook Mall  Wayne NJ 07470  United States
+-Disney:1700 Willowbrook Mall  Wayne NJ 07470  United States
+-Foot Locker:1415 Willowbrook Mall  Wayne NJ 07470  United States
+-Macy's:1400 Willowbrook Mall  Wayne NJ 07470  United States
+-acme:556 Myrtle Ave  Boonton NJ 07005  United States
+
+Technology Not Available:
+-Hess: 556 Myrtle Ave  Boonton NJ 07005  United States
+
+Location Not Available:
+-N/A
+
+
+Device Issues:
+
+Subway:1400 Willowbrook Mall  Wayne NJ 07470  United States
+Discover FPAN:3094; DPAN:8081 - Fail
+ tap failed on both phone and watch. DUT shows hold near reader to pay. reader beeps twice shows card not accepted please use chip reader. 
+Date/Time:20160919/114000
+Amount:
+Currency/Amount shown in passbook history: Yes
+POS Reader: DUT shows hold near reader to pay
+POS Reader: reader beeps twice shows card not accepted please use chip reader
+DUT Display: DUT shows hold near reader to pay
+Radar Link: 
+Card - Multiple Attempts
+All 3 attempts results in same observation.
+Other cards failed: N/A
+Other cards passed: Amex Amex FPAN:1007 DPAN:7676; 
+
+Subway:1130 Willowbrook Mall  Wayne NJ 07470  United States
+Discover FPAN:3094; DPAN:5169 - Fail
+ tap failed on both phone and watch. DUT shows hold near reader to pay. reader beeps twice shows card not accepted please use chip reader. 
+Date/Time:20160919/114200
+Amount:
+Currency/Amount shown in passbook history: Yes
+POS Reader: DUT shows hold near reader to pay
+POS Reader: reader beeps twice shows card not accepted please use chip reader
+DUT Display: DUT shows hold near reader to pay
+Radar Link: 
+Card - Multiple Attempts
+All 3 attempts results in same observation.
+Other cards failed: N/A
+Other cards passed: Citi MasterCard FPAN:5739 DPAN:6490; 
+
+Aeropostale:1455 Willowbrook Mall  Wayne NJ 07470  United States
+Discover FPAN:3094; DPAN:8081 - Fail
+ tap failed on both phone and watch. DUT shows done. reader beeps once shows nothing afterwards. 
+Date/Time:20160919/121100
+Amount:13.35
+Currency/Amount shown in passbook history: Yes
+POS Reader: reader beeps once shows nothing afterwards
+DUT Display: DUT shows done
+Radar Link: 
+Card - Multiple Attempts
+All 3 attempts results in same observation.
+Other cards failed: Discover Discover FPAN:3094 DPAN:5169; 
+Other cards passed: Citi MasterCard FPAN:5739 DPAN:6490; BOA MasterCard Debit FPAN:7855 DPAN:4208; Chase Visa Debit  FPAN:4295 DPAN:4701; 
+
+Aeropostale:1455 Willowbrook Mall  Wayne NJ 07470  United States
+Discover FPAN:3094; DPAN:5169 - Fail
+ tap failed on both phone and watch. DUT shows done. reader beeps once shows nothing afterwards. 
+Date/Time:20160919/121500
+Amount:13.75
+Currency/Amount shown in passbook history: Yes
+POS Reader: reader beeps once shows nothing afterwards
+DUT Display: DUT shows done
+Radar Link: 
+Card - Multiple Attempts
+All 3 attempts results in same observation.
+Other cards failed: Discover Discover FPAN:3094 DPAN:8081; 
+Other cards passed: Citi MasterCard FPAN:5739 DPAN:6490; BOA MasterCard Debit FPAN:7855 DPAN:4208; Chase Visa Debit  FPAN:4295 DPAN:4701; 
+
+Failures:
+
+[Field Test-P3][United States-San Jose][Discover][Discover][Subway] tap failed on both phone and watch. DUT shows hold near reader to pay. reader beeps twice shows card not accepted please use chip reader. 
+* SUMMARY
+ tap failed on both phone and watch. DUT shows hold near reader to pay. reader beeps twice shows card not accepted please use chip reader. 
+* STEPS TO REPRODUCE
+Orientation: Any
+Range: Any
+1.Tap Phone
+2.Select Card
+3.Tap device on reader
+
+Transaction Details:
+iPhone 6s Plus-C38QFBN2GRWV
+SW: 10.1 (14B49)
+Date/Time: 20160919/114000
+Amount: 
+Currency/Amount shown in passbook history: NA
+DPAN: 8081
+FPAN: 3094
+PNO: Discover
+BANK: Discover
+Address: 1400 Willowbrook Mall  Wayne NJ 07470  United States
+Store Name: Subway
+Reader Info: 
+Other cards failed: N/A
+Other cards passed: Amex Amex FPAN:1007 DPAN:7676; 
+Order of cards tested at location:
+-iPhone 6s Plus: Amex Amex FPAN: 1007 DPAN: 7676;
+-iPhone 6s Plus: Discover Discover FPAN: 3094 DPAN: 8081;
+
+[Field Test-P3][United States-San Jose][Discover][Discover][Subway] tap failed on both phone and watch. DUT shows hold near reader to pay. reader beeps twice shows card not accepted please use chip reader. 
+* SUMMARY
+ tap failed on both phone and watch. DUT shows hold near reader to pay. reader beeps twice shows card not accepted please use chip reader. 
+* STEPS TO REPRODUCE
+Orientation: Any
+Range: Any
+1.Tap Phone
+2.Select Card
+3.Tap device on reader
+
+Transaction Details:
+Apple Watch-FH9PTV0UG99D
+SW: 3.1 (14S445)
+Date/Time: 20160919/114200
+Amount: 
+Currency/Amount shown in passbook history: NA
+DPAN: 5169
+FPAN: 3094
+PNO: Discover
+BANK: Discover
+Address: 1130 Willowbrook Mall  Wayne NJ 07470  United States
+Store Name: Subway
+Reader Info: 
+Other cards failed: N/A
+Other cards passed: Citi MasterCard FPAN:5739 DPAN:6490; 
+Order of cards tested at location:
+-iPhone 6: Citi MasterCard FPAN: 5739 DPAN: 6490;
+-Apple Watch: Discover Discover FPAN: 3094 DPAN: 5169;
+
+[Field Test-P3][United States-San Jose][Discover][Discover][Aeropostale] tap failed on both phone and watch. DUT shows done. reader beeps once shows nothing afterwards. 
+* SUMMARY
+ tap failed on both phone and watch. DUT shows done. reader beeps once shows nothing afterwards. 
+* STEPS TO REPRODUCE
+Orientation: Any
+Range: Any
+1.Tap Phone
+2.Select Card
+3.Tap device on reader
+
+Transaction Details:
+iPhone 6s Plus-C38QFBN2GRWV
+SW: 10.1 (14B49)
+Date/Time: 20160919/121100
+Amount: 13.35
+Currency/Amount shown in passbook history: NA
+DPAN: 8081
+FPAN: 3094
+PNO: Discover
+BANK: Discover
+Address: 1455 Willowbrook Mall  Wayne NJ 07470  United States
+Store Name: Aeropostale
+Reader Info: verifone 
+Other cards failed: Discover Discover FPAN:3094 DPAN:5169; 
+Other cards passed: Citi MasterCard FPAN:5739 DPAN:6490; BOA MasterCard Debit FPAN:7855 DPAN:4208; Chase Visa Debit  FPAN:4295 DPAN:4701; 
+Order of cards tested at location:
+-iPhone 6s Plus: Discover Discover FPAN: 3094 DPAN: 8081;
+-iPhone 6: Citi MasterCard FPAN: 5739 DPAN: 6490;
+-Apple Watch: BOA MasterCard Debit FPAN: 7855 DPAN: 4208;
+-Apple Watch: Chase Visa Debit  FPAN: 4295 DPAN: 4701;
+-Apple Watch: Discover Discover FPAN: 3094 DPAN: 5169;
+
+[Field Test-P3][United States-San Jose][Discover][Discover][Aeropostale] tap failed on both phone and watch. DUT shows done. reader beeps once shows nothing afterwards. 
+* SUMMARY
+ tap failed on both phone and watch. DUT shows done. reader beeps once shows nothing afterwards. 
+* STEPS TO REPRODUCE
+Orientation: Any
+Range: Any
+1.Tap Phone
+2.Select Card
+3.Tap device on reader
+
+Transaction Details:
+Apple Watch-FH9PTV0UG99D
+SW: 3.1 (14S445)
+Date/Time: 20160919/121500
+Amount: 13.75
+Currency/Amount shown in passbook history: NA
+DPAN: 5169
+FPAN: 3094
+PNO: Discover
+BANK: Discover
+Address: 1455 Willowbrook Mall  Wayne NJ 07470  United States
+Store Name: Aeropostale
+Reader Info: 
+Other cards failed: Discover Discover FPAN:3094 DPAN:8081; 
+Other cards passed: Citi MasterCard FPAN:5739 DPAN:6490; BOA MasterCard Debit FPAN:7855 DPAN:4208; Chase Visa Debit  FPAN:4295 DPAN:4701; 
+Order of cards tested at location:
+-iPhone 6s Plus: Discover Discover FPAN: 3094 DPAN: 8081;
+-iPhone 6: Citi MasterCard FPAN: 5739 DPAN: 6490;
+-Apple Watch: BOA MasterCard Debit FPAN: 7855 DPAN: 4208;
+-Apple Watch: Chase Visa Debit  FPAN: 4295 DPAN: 4701;
+-Apple Watch: Discover Discover FPAN: 3094 DPAN: 5169;
